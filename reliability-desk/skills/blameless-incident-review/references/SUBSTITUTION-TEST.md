@@ -15,7 +15,7 @@ The single question that decides whether a finding is about a person or about th
 | Answer | What it means | What the finding becomes |
 | ------ | ------------- | ------------------------ |
 | Yes | The conditions steered any competent operator toward the same action | A condition finding: change the prompt, the gate, the guard, or the criteria |
-| No | The action departed from what the same conditions would produce | Distinguish a knowing violation from at-risk drift, then still ask why the condition allowed it |
+| No | The action departed from what the same conditions would produce | Record the departure as a condition question: why did the system allow it to go undetected? Never classify intent or culpability; that is outside this review |
 | Unknown | The evidence does not settle it | Name the missing evidence and treat the gap itself as a detection finding |
 
 A "no" answer is not a licence to name a culprit.

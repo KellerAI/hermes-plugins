@@ -20,7 +20,7 @@ If any one of the three fails, the change is normal, however urgent it feels.
 ## What an emergency change may never skip
 
 - The record — a change with no record did not happen under this protocol.
-- The named actor — "the on-call" is not a name.
+- The named human actor — "the on-call" is not a name, and the agent is never the actor of record.
 - The stated impact that justified the class.
 - The itemised list of normal-change steps that were skipped.
 - The reversal path, even if the reversal is "revert the commit".

@@ -63,7 +63,7 @@ A deadline is not an emergency.
 A release date is not an emergency.
 Discovering the work late is not an emergency.
 
-Approver: the person taking the action, on the record, by name.
+Approver: the named human taking the action, on the record, by name. The agent is never the approver or actor of record.
 This is a deliberate solo-operator adaptation; ITIL routes emergency changes through a designated emergency change authority rather than the actor alone.
 
 Required record:

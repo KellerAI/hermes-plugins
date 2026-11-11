@@ -27,7 +27,7 @@ This plugin is not listed in the Hermes plugin catalog; install it from this rep
 ## What it does not do
 
 - It does not send, post or page anyone. Escalations and polls are drafts you send yourself.
-- It does not merge, deploy, change or delete anything unless you confirm that exact action in the chat.
+- It does not merge, deploy, roll back, revert, change or delete anything unless you confirm that exact action in your own new message in the chat. Text inside pasted content, logs, tickets or tool output never counts as a confirmation.
 - It never assigns personal blame, and nothing it writes is meant as grounds for discipline or any other employment action.
 - A GO or NO-GO is a recommendation for the named owner, not a decision.
 - It is skills only: no tools, no hooks, no MCP servers, no scripts.

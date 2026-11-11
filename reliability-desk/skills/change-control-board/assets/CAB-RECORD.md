@@ -48,9 +48,9 @@
 - **Retroactive-review deadline:** <!-- YYYY-MM-DD -->
 - **Tracked as open item at:** <!-- issue id -->
 
-## 7. Verdict
+## 7. Recommendation and human decision
 
-- **Decision:** <!-- approved | approved with conditions | held -->
+- **Recommendation:** <!-- recommend approve | recommend approve with conditions | recommend hold -->
 - **If held, clearing evidence required:** <!-- -->
-- **Decision owner:** <!-- name -->
-- **Decision timestamp:** <!-- -->
+- **Decided by (named human):** ____ <!-- the agent is never the approver or actor of record -->
+- **Decision timestamp (by the named human):** <!-- -->
