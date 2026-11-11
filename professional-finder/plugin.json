@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "professional-finder",
+  "version": "1.0.0",
+  "description": "Find, shortlist, license-check and vet licensed professionals in any US state from public professional records. Drafts outreach; never contacts anyone. Skills only; no network calls of its own.",
+  "author": {
+    "name": "KellerAI",
+    "url": "https://kellerai.io"
+  },
+  "homepage": "https://kellerai.io",
+  "license": "Apache-2.0",
+  "keywords": [
+    "hiring",
+    "licensing",
+    "credentials",
+    "recruiting",
+    "verification"
+  ]
+}

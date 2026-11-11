@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hook-desk",
+  "version": "1.0.0",
+  "description": "Sourced hook analysis and opening-line drafts from posts you provide. Skills only; no network calls.",
+  "author": {
+    "name": "KellerAI",
+    "url": "https://kellerai.io"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "writing",
+    "social",
+    "hooks",
+    "drafting"
+  ],
+  "homepage": "https://kellerai.io"
+}
