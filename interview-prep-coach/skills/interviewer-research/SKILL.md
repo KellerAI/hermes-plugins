@@ -1,6 +1,6 @@
 ---
 name: interviewer-research
-description: Use when the user names interviewers or a hiring manager and asks who they are, what they will care about, or how to approach them. Candidate-side only: builds a cited profile of each person the user will meet, from public professional sources only, with unknowns marked, and an approach plan for the interview.
+description: "Use when the user names interviewers or a hiring manager and asks who they are, what they will care about, or how to approach them. Candidate-side only: builds a cited profile of each person the user will meet, from public professional sources only, with unknowns marked, and an approach plan for the interview."
 license: Apache-2.0
 ---
 
