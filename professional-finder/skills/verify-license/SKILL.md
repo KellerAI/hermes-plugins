@@ -48,7 +48,7 @@ To find any state board, follow "How to find the right licensing board in any st
 
 1. Open the official source. If it shows a CAPTCHA, login or terms-of-use gate, stop and give the user the URL and the exact search to run.
 2. Search by name (and number if supplied). If several people match, narrow by city, license type or number; if still ambiguous, report all plausible matches and ask the user to confirm with the professional.
-3. Read the record: license type, number, status, original issue date (not an age proxy), expiry date, any restrictions or conditions, and any public discipline or board orders. If the record shows an address, record city and state only.
+3. Read the record: license type, number, status, original issue date (do not use it to infer age), expiry date, any restrictions or conditions, and any public discipline or board orders. If the record shows an address, record city and state only.
 4. Check that the license type covers the planned work and that the state matches where the work will happen.
 5. For healthcare roles, run the OIG exclusion check as well.
 

@@ -35,10 +35,6 @@ Portable packages stay disabled until you enable them. Once enabled, the skills 
 - Uses the agent's own web tools, when you have them enabled, to open public registries and directories. It sends nothing to KellerAI.
 - Candidate details stay in your conversation or in a tracker you own. Record only what the hiring task needs and delete records for people you are no longer considering.
 
-## Privacy and terms
-
-KellerAI privacy policy: https://kellerai.io/privacy · Terms: https://kellerai.io/terms
-
 ## License and credit
 
 Apache-2.0. See `LICENSE` and `NOTICE`.
