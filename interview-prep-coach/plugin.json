@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "interview-prep-coach",
+  "version": "1.0.0",
+  "description": "Prepares you for a specific interview: public-source panel research, predicted questions, STAR answers from your real experience, mock interviews, debriefs and application drafts you send yourself. Skills only.",
+  "author": {
+    "name": "KellerAI",
+    "url": "https://kellerai.io"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "interview",
+    "career",
+    "job-search",
+    "mock-interview",
+    "coaching"
+  ],
+  "homepage": "https://kellerai.io"
+}
