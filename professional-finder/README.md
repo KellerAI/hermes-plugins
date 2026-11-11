@@ -25,7 +25,7 @@ Portable packages stay disabled until you enable them. Once enabled, the skills 
 ## What it does not do
 
 - It never sends email or messages, posts job ads, books calls, or contacts candidates, employers, references or licensing boards. Outreach is a draft you send yourself.
-- It is **not a consumer reporting agency** and does not perform background checks. Its reports summarize public professional-license and regulator records and are not consumer reports under the Fair Credit Reporting Act (FCRA). Do not use them as the basis for an adverse employment action; for a background check, use an FCRA-compliant screening company and talk to employment counsel.
+- These reports summarize records looked up directly from official sources. They are not intended to be consumer reports and Professional Finder is not a consumer reporting agency. Confirm any finding with the issuing board before you rely on it. If you use a third-party background-check company, follow the FCRA disclosure, authorization and adverse-action steps, and talk to employment counsel.
 - It screens only on job-related criteria and never on protected characteristics.
 - It does not get around CAPTCHAs, login walls or site terms; it looks up one person at a time at a human pace and hands you the exact page when a site blocks automated lookups.
 
