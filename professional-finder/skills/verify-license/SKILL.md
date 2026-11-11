@@ -56,7 +56,7 @@ To find any state board, follow "How to find the right licensing board in any st
 
 | Status | Meaning | What to tell the user |
 | --- | --- | --- |
-| Active / Current / Clear | Licensed and in good standing per the board | Proceed; note expiry date |
+| Active / Current / Clear | Licensed and in good standing per the board | No concerns from this source; note expiry date |
 | Active with conditions / probation / restricted | Licensed with limits | Read the order; follow up before proceeding |
 | Inactive / Lapsed / Expired | Not currently authorized | Cannot practice under this license until renewed |
 | Suspended / Revoked / Surrendered | Not authorized | Serious concern; cite the order |
