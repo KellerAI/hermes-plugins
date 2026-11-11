@@ -6,8 +6,10 @@ One plugin per folder. Each folder is a portable Agent Plugins v1 package (`plug
 |---|---|---|
 | [`hook-desk/`](hook-desk) | Hook Desk | Studies the opening lines of posts you paste, keeps a sourced formula file and drafts opening lines for your approval. Never posts. |
 | [`professional-finder/`](professional-finder) | Professional Finder | Finds, shortlists, license-checks and vets licensed professionals in any US state from public records. Drafts outreach; never contacts anyone. Not a background check. |
+| [`reliability-desk/`](reliability-desk) | Reliability Desk | Runs go/no-go polls, blameless incident reviews, FMEA, readbacks, stop-the-line triggers, change control and session checklists on your real work, with cited evidence. Never sends or changes anything itself. |
+| [`interview-prep-coach/`](interview-prep-coach) | Interview Prep Coach | Researches the panel from public professional sources, predicts questions, builds STAR answers from your real experience, runs mock interviews and drafts application materials you send yourself. |
 
-Both are skills only: no tools, hooks, MCP servers, scripts, stored credentials or telemetry. See each folder's README for install steps and disclosure.
+All are skills only: no tools, hooks, MCP servers, scripts, stored credentials or telemetry. See each folder's README for install steps and disclosure.
 
 ## License and credit
 

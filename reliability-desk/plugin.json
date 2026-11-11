@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "reliability-desk",
+  "version": "1.0.0",
+  "description": "High-reliability practices for launches, changes and incidents: go/no-go polls, blameless reviews, FMEA, readbacks, stop-the-line, change control and session checklists. Skills only; no network calls.",
+  "author": {
+    "name": "KellerAI",
+    "url": "https://kellerai.io"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "reliability",
+    "incident-review",
+    "fmea",
+    "change-management",
+    "checklists"
+  ],
+  "homepage": "https://kellerai.io"
+}
