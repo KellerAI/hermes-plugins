@@ -9,7 +9,7 @@ hermes plugins install hook-desk --no-enable
 hermes plugins enable hook-desk
 ```
 
-Portable packages stay disabled until you enable them. Once enabled, the skills appear as `hook-desk:get-started` and `hook-desk:hook-forensics`.
+Listed in the [Hermes plugin catalog](https://github.com/NousResearch/hermes-agent/pull/153877). Portable packages stay disabled until you enable them. Once enabled, the skills appear as `hook-desk:get-started` and `hook-desk:hook-forensics`.
 
 ## Skills
 

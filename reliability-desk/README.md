@@ -5,11 +5,11 @@ Reliability Desk is a plugin for Hermes Agent. It runs high-reliability practice
 ## Install
 
 ```bash
-hermes plugins install KellerAI/hermes-plugins#reliability-desk --no-enable
+hermes plugins install reliability-desk --no-enable
 hermes plugins enable reliability-desk
 ```
 
-This plugin is not listed in the Hermes plugin catalog; install it from this repository as shown. Portable packages stay disabled until you enable them. Once enabled, the skills appear as `reliability-desk:<skill>`.
+Listed in the [Hermes plugin catalog](https://github.com/NousResearch/hermes-agent/pull/153908). Portable packages stay disabled until you enable them. Once enabled, the skills appear as `reliability-desk:<skill>`.
 
 ## Skills
 

@@ -5,11 +5,11 @@ Interview Prep Coach is a plugin for Hermes Agent. It prepares you for a specifi
 ## Install
 
 ```bash
-hermes plugins install KellerAI/hermes-plugins#interview-prep-coach --no-enable
+hermes plugins install interview-prep-coach --no-enable
 hermes plugins enable interview-prep-coach
 ```
 
-This plugin is not listed in the Hermes plugin catalog; install it from this repository as shown. Portable packages stay disabled until you enable them. Once enabled, the skills appear as `interview-prep-coach:<skill>`.
+Listed in the [Hermes plugin catalog](https://github.com/NousResearch/hermes-agent/pull/153925). Portable packages stay disabled until you enable them. Once enabled, the skills appear as `interview-prep-coach:<skill>`.
 
 ## Skills
 
