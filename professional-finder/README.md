@@ -5,11 +5,11 @@ Professional Finder is a plugin for Hermes Agent. It helps a small business, or 
 ## Install
 
 ```bash
-hermes plugins install KellerAI/hermes-plugins#professional-finder --no-enable
+hermes plugins install professional-finder --no-enable
 hermes plugins enable professional-finder
 ```
 
-This plugin is not listed in the Hermes plugin catalog; install it from this repository as shown. Portable packages stay disabled until you enable them. Once enabled, the skills appear as `professional-finder:<skill>`.
+Listed in the [Hermes plugin catalog](https://github.com/NousResearch/hermes-agent/pull/154517). Portable packages stay disabled until you enable them. Once enabled, the skills appear as `professional-finder:<skill>`.
 
 ## Skills
 
