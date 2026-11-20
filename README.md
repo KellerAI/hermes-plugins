@@ -9,7 +9,7 @@ One plugin per folder. Each folder is a portable Agent Plugins v1 package (`plug
 | [`reliability-desk/`](reliability-desk) | Reliability Desk | Runs go/no-go polls, blameless incident reviews, FMEA, readbacks, stop-the-line triggers, change control and session checklists on your real work, with cited evidence. Never sends or changes anything itself. |
 | [`interview-prep-coach/`](interview-prep-coach) | Interview Prep Coach | Researches the panel from public professional sources, predicts questions, builds STAR answers from your real experience, runs mock interviews and drafts application materials you send yourself. |
 
-All are skills only: no tools, hooks, MCP servers, scripts, stored credentials or telemetry. See each folder's README for install steps and disclosure.
+All four are listed in the Hermes plugin catalog: [Hook Desk](https://github.com/NousResearch/hermes-agent/pull/153877), [Professional Finder](https://github.com/NousResearch/hermes-agent/pull/154517), [Reliability Desk](https://github.com/NousResearch/hermes-agent/pull/153908) and [Interview Prep Coach](https://github.com/NousResearch/hermes-agent/pull/153925). All are skills only: no tools, hooks, MCP servers, scripts, stored credentials or telemetry. See each folder's README for install steps and disclosure.
 
 ## License and credit
 
